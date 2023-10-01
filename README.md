@@ -1,4 +1,4 @@
 # Codingjurney
 New Repo
 <br>
-Author Pradeep Singh
+Author Pradeep Singh (pw skills)
